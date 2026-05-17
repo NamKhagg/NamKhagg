@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:8A2BE2&height=80&section=footer"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## Top Languages
 
