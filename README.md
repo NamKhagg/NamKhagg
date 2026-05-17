@@ -2,8 +2,13 @@
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamKhagglayout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamKhagg&layout=compact)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NamKhagg&theme=github-dark-blue&border_radius=10" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamKhagg&layout=compact&theme=github_dark" />
+</p>
 <!--
 **NamKhagg/NamKhagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
