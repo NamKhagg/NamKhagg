@@ -2,12 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello,+World!;I'm+NamKhagg;Welcome+to+my+GitHub" />
 </h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00dbde,100:fc00ff&height=2"/>
-<img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=2"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:58a6ff&height=2"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:43cea2,100:185a9d&height=3"/>
 
 ## Top Languages
 
